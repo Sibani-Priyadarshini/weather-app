@@ -178,15 +178,15 @@ function App() {
               marginBottom: '1rem',
             }}
           >
-            <Box
-              component="img"
-              sx={{
-                height: { xs: '16px', sm: '22px', md: '26px' },
-                width: 'auto',
-              }}
-              alt="logo"
-              src={Logo}
-            />
+            // <Box
+            //   component="img"
+            //   sx={{
+            //     height: { xs: '16px', sm: '22px', md: '26px' },
+            //     width: 'auto',
+            //   }}
+            //   alt="logo"
+            //   src={Logo}
+            // />
 
             <ISTDatetime />
             
